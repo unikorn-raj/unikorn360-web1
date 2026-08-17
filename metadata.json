@@ -1,0 +1,6 @@
+{
+  "name": "UNIKORN360 AI Solutions",
+  "description": "Enterprise AI platform and private strategic advisory practice building the digital business brain for MSMEs, enterprises and business families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
